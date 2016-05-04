@@ -428,7 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				GCC_PREFIX_HEADER = /Users/gaoyanbin/Desktop/Project/Exercies/YCMVVMDemo/YCMVVMDemo/YCPrefixHeader.pch;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/YCMVVMDemo/YCPrefixHeader.pch";
 				INFOPLIST_FILE = YCMVVMDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yxc.YCMVVMDemo;
@@ -440,7 +440,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				GCC_PREFIX_HEADER = /Users/gaoyanbin/Desktop/Project/Exercies/YCMVVMDemo/YCMVVMDemo/YCPrefixHeader.pch;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/YCMVVMDemo/YCPrefixHeader.pch";
 				INFOPLIST_FILE = YCMVVMDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yxc.YCMVVMDemo;

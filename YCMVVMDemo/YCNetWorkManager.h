@@ -11,7 +11,6 @@
 @interface YCNetWorkManager : NSObject
 
 
-
 + (instancetype)shareManager;
 
 - (NSArray *)loadData;

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "49690655EFE9FF06A8925861B5570225BF0DCAA8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "49690655EFE9FF06A8925861B5570225BF0DCAA8" : 0,
+    "BDA4CE30385DC9D4BC5FE5E5416F03FCF47465CE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C3EBAC96-C09D-42CF-A8B5-EC8C2D4365AE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "49690655EFE9FF06A8925861B5570225BF0DCAA8" : "YCMVVMDemo\/",
+    "BDA4CE30385DC9D4BC5FE5E5416F03FCF47465CE" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YCMVVMDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YCMVVMDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gaoyanbin1314\/MVVM-MVC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "49690655EFE9FF06A8925861B5570225BF0DCAA8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gaoyanbin1314\/exercise.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BDA4CE30385DC9D4BC5FE5E5416F03FCF47465CE"
+    }
+  ]
+}
